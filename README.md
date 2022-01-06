@@ -16,10 +16,12 @@ The following are the salient features of the design and description of the phys
 2.	The NXT controller acted as a counterweight to balance the weight of the robot and additional weights were implemented to stabilize the robot at extremities.
 3.	The 2 revolute links were 13.8cm and 14.2 cm, with a rotational range of pi/4 and pi respectively
 4.	The following is the visual representation of the workspace of the robot
- ![Picture1](https://github.com/mustafab0/Sketch-bot/blob/master/Images/Picture1.png?raw=true)
+  ![Picture1](https://github.com/mustafab0/Sketch-bot/blob/master/Images/Picture1.png?raw=true)
+
 
 5.	The following is the task space representation of the Sketch-bot
- ![Picture2](https://github.com/mustafab0/Sketch-bot/blob/master/Images/Picture2.png?raw=true)
+  ![Picture2](https://github.com/mustafab0/Sketch-bot/blob/master/Images/Picture2.png?raw=true)
+  
 Software 
 The software for the robot was again divided into 3 major stages given below:
 1.	GUI - The user interface to import the image and then use it to process it
