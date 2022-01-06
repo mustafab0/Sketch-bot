@@ -21,7 +21,8 @@ The following are the salient features of the design and description of the phys
     ![Picture1](https://user-images.githubusercontent.com/39084056/148333495-83f3ea35-f2fb-4f2c-b3e7-3d498a5d745a.png)
 
 5.	The following is the task space representation of the Sketch-bot
-    ![Picture2](https://user-images.githubusercontent.com/39084056/148333550-2aa9c536-97d0-4901-bcf8-737b4a877ed6.png)
+   
+   ![Picture2](https://user-images.githubusercontent.com/39084056/148333550-2aa9c536-97d0-4901-bcf8-737b4a877ed6.png)
 
   
 Software 
@@ -49,6 +50,7 @@ All the image processing is done using the Image Processing Toolbox (IPT) availa
 1.	Since we can only print with 1 color, we convert the image into a black and white image. To do so the user can adjust the slider as shown above to get the required output from the image.
 
 a.	The following is the snippet of code used to get the required output
+
 b.	![Picture4](https://user-images.githubusercontent.com/39084056/148333882-c238465d-4c81-44ff-b357-e39852c2642e.png)
 
 2.	Once we have the required output image, we hit the ‘Go’ button takes us to the next step.
